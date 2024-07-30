@@ -14,6 +14,7 @@ Desktop Entry Creator is a Python application that allows users to create .deskt
 - `requests` library
 - `pillow` library
 - `serpapi` library
+- google-search-results library
 - `tkinter` (comes pre-installed with Python)
 
 ## Setup
@@ -32,7 +33,7 @@ Desktop Entry Creator is a Python application that allows users to create .deskt
 
 3. **Install the required libraries:**
     ```bash
-    pip install requests pillow serpapi
+    pip install requests pillow serpapi google-search-results
     ```
 
 4. **Add your SerpAPI key to `config.py`:**
